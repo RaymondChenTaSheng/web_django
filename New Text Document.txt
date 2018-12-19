@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=yDv5FIAeyoY&t=1562s
+https://www.codingforentrepreneurs.com/blog/create-a-blank-django-project
+
+
+
+https://www.youtube.com/watch?v=tB3kwu2E0GM
+https://github.com/twtrubiks/django-tutorial
